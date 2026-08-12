@@ -70,21 +70,24 @@ Atualmente busco oportunidades como **Desenvolvedor Backend Java Júnior**, **De
 
 ---
 
-### 📊 GitHub
-
-<p align="left">
-  <img
-    src="./profile/stats.svg"
-    height="175"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="175"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="./profile/stats.svg"
+        width="420px"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td>
+      <img
+        src="./profile/top-langs.svg"
+        width="320px"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
