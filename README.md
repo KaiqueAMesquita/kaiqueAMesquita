@@ -6,9 +6,55 @@
 
 <br>
 
-<p align="left"> &nbsp;&nbsp;<a href="SEU_LINK_DO_LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20px" title="LinkedIn" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kaiquealvesmesquita@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20px" title="Gmail" alt="Gmail"/></a></p>
+<p align="left">
+  <a href="SEU_LINK_DO_LINKEDIN">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="18px"
+      title="LinkedIn"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kaiquealvesmesquita@gmail.com">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="18px"
+      title="Gmail"
+      alt="Gmail"
+    />
+  </a>
+</p>
 
-<p align="left"> &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20px" title="Java" alt="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20px" title="Spring Boot" alt="Spring Boot"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="20px" title="Angular" alt="Angular"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20px" title="JavaScript" alt="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20px" title="HTML" alt="HTML"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px" title="CSS" alt="CSS"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="20px" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20px" title="MySQL" alt="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="20px" title="SQL Server" alt="SQL Server"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="20px" title="MongoDB" alt="MongoDB"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20px" title="Node.js" alt="Node.js"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="20px" title="PHP" alt="PHP"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="20px" title="Laravel" alt="Laravel"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20px" title="Git" alt="Git"/></p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="18px" title="Java" alt="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="18px" title="Spring Boot" alt="Spring Boot"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="18px" title="Angular" alt="Angular"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="18px" title="JavaScript" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="18px" title="HTML" alt="HTML"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="18px" title="CSS" alt="CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="18px" title="PostgreSQL" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="18px" title="MySQL" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="18px" title="SQL Server" alt="SQL Server"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="18px" title="MongoDB" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="18px" title="Node.js" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="18px" title="PHP" alt="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18px" title="Laravel" alt="Laravel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="18px" title="Git" alt="Git"/>
+</p>
 
 ---
 
@@ -28,14 +74,15 @@ Atualmente busco oportunidades como **Desenvolvedor Backend Java Júnior**, **De
 
 <p align="left">
   <img
+    src="./profile/stats.svg"
+    height="175"
     alt="Estatísticas do GitHub"
-    height="175"
-    src="assets/github-stats.svg"
   />
+
   <img
-    alt="Linguagens mais utilizadas"
+    src="./profile/top-langs.svg"
     height="175"
-    src="assets/top-langs.svg"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
