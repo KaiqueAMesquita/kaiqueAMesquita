@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Backend Full Stack`**
 
-<img src="assets/kaique.jpg" width="150px" alt="Foto de Kaique Alves Mesquita"/>
-
 <br>
 
 <p align="left">
