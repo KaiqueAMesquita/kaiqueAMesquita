@@ -30,12 +30,12 @@ Atualmente busco oportunidades como **Desenvolvedor Backend Java Júnior**, **De
   <img
     alt="Estatísticas do GitHub"
     height="175"
-    src="https://github-readme-stats.vercel.app/api?username=KaiqueAMesquita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="assets/github-stats.svg"
   />
   <img
     alt="Linguagens mais utilizadas"
     height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueAMesquita&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="assets/top-langs.svg"
   />
 </p>
 
