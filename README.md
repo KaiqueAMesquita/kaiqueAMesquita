@@ -5,23 +5,39 @@
 <br>
 
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN">
+
+  <a href="https://www.linkedin.com/in/kaique-mesquita-7937272a2/">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      width="18px"
-      title="LinkedIn"
       alt="LinkedIn"
+      title="Meu LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:kaiquealvesmesquita@gmail.com">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="18px"
-      title="Gmail"
       alt="Gmail"
+      title="Enviar e-mail"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
+
+  <a href="https://github.com/KaiqueAMesquita?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Seguidores no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/KaiqueAMesquita?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/KaiqueAMesquita?tab=repositories&sort=stargazers">
+    <img
+      alt="Estrelas"
+      title="Total de estrelas no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/KaiqueAMesquita?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+
 </p>
 
 <p align="left">
