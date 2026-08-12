@@ -1,1 +1,42 @@
+name: Atualizar estatisticas do GitHub
 
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v6
+
+      - name: Gerar estatisticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=KaiqueAMesquita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar linguagens mais utilizadas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=KaiqueAMesquita&theme=tokyonight&layout=compact&langs_count=9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualizar estatisticas do GitHub" || exit 0
+          git push
